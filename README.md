@@ -1,3 +1,14 @@
+Profesor he tenido ciertas dificultades:
+ - No he podido instalar Bootstrap para utilizar componentes debido a quemi conexion a internet es muy debil.
+
+ - En el desafio despues de agregar un nuevo colaborador este no lo renderiza de una vez, pero cuando se realiza el filtrado de este nuevo Colaborador alli si aparece y despues de querer filtrar otro colaborador aparece en la nueva renderizacion. Le agradeceria revisar el codigo y ver que estoy haciendo mal y me lo hace saber por favor.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
